@@ -9,9 +9,7 @@ The To-Do List Application is a desktop application built with Python using Tkin
 - **Priority Levels:** Set task priority as Low, Medium, or High.
 - **Deadlines:** Choose deadlines such as Today, Tomorrow, End of Week, or No Deadline.
 - **User-Friendly Interface:** Simple and intuitive GUI for easy task management.
-
 ![todo](https://github.com/user-attachments/assets/931ed51a-e736-4dbe-b88e-648ff2b0a6d4)
-
 ## Installation
 
 ### To run this project locally, follow these steps:
@@ -29,9 +27,9 @@ The To-Do List Application is a desktop application built with Python using Tkin
 ## Usage
 
 **Run the Application:**
-    ```bash
-    python main.py
-    ```
+   ```bash
+   python main.py
+   ```
 **Add a Task:**
 - Enter the task title.
 - Select the priority level from the dropdown.
@@ -52,7 +50,7 @@ Contributions to this project are welcome. If you have suggestions or improvemen
 
 ## License
 
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/Reegan-758/todo-app-list/blob/main/LICENSE) file for details.
 Contact
 
 ## For any questions or feedback, please reach out to:
