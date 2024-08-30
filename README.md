@@ -56,5 +56,5 @@ Contact
 ## For any questions or feedback, please reach out to:
 
 - **Email:** reegaaaki@gmail.com
-- **GitHub:** Reegan-758
+- **GitHub:** [Reegan-758](https://github.com/Reegan-758)
 
